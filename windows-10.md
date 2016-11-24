@@ -34,6 +34,7 @@ Download and install
 ## Sources
 
 - [Installing Chocolatey](https://chocolatey.org/install)
+- [Reload the path in PowerShell](http://stackoverflow.com/questions/17794507/reload-the-path-in-powershell)
 
 ## Notes
 
