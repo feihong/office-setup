@@ -1,5 +1,18 @@
 # Windows 10 Setup
 
+Go to [Ninite](https://ninite.com), check the following applications, then run the downloader it gives you.
+
+- Chrome
+- Firefox
+- Skype
+- 7-Zip
+- VLC
+- Python
+- FileZilla
+- PuTTY
+- TeamViewer
+- PDFCreator
+
 Open power shell in administrator mode and run:
 
 ```
@@ -11,18 +24,8 @@ $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";"
 Install packages using Chocolatey:
 
 ```
-choco install -y firefox python3 atom electron putty
+choco install -y atom electron
 ```
-
-Now go to [Ninite](https://ninite.com), check the following applications, then run the downloader it gives you.
-
-- Chrome
-- Skype
-- 7-Zip
-- VLC
-- FileZilla
-- TeamViewer
-- PDFCreator
 
 ## Sources
 
