@@ -27,6 +27,10 @@ Install packages using Chocolatey:
 choco install -y atom electron
 ```
 
+Download and install
+
+- [SpiderOak ONE](https://spideroak.com/opendownload)
+
 ## Sources
 
 - [Installing Chocolatey](https://chocolatey.org/install)
