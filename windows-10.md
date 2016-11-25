@@ -13,7 +13,9 @@ Go to [Ninite](https://ninite.com), check the following applications, then run t
 - FileZilla
 - PuTTY
 - TeamViewer
+- Revo
 - PDFCreator
+- KeePass 2
 
 ## Chocolatey
 
