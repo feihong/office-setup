@@ -30,7 +30,7 @@ $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";"
 Install packages using Chocolatey:
 
 ```
-choco install -y atom electron
+choco install -y atom electron ccleaner
 ```
 
 ## Manual installation
