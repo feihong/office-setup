@@ -56,3 +56,5 @@ Some programs, e.g. VLC and SpiderOak ONE, will have icons or text that are too 
 ## Notes
 
 To list all locally-installed packages: `choco list --local-only`
+
+If you accidentally install crapware on your computer, use Revo to completely uninstall them from your computer.
