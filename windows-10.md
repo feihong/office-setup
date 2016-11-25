@@ -1,5 +1,7 @@
 # Windows 10 Setup
 
+## Ninite
+
 Go to [Ninite](https://ninite.com), check the following applications, then run the downloader it gives you.
 
 - Chrome
@@ -12,6 +14,8 @@ Go to [Ninite](https://ninite.com), check the following applications, then run t
 - PuTTY
 - TeamViewer
 - PDFCreator
+
+## Chocolatey
 
 Open power shell in administrator mode and run:
 
@@ -27,9 +31,16 @@ Install packages using Chocolatey:
 choco install -y atom electron
 ```
 
-Download and install
+## Manual installation
+
+Download and install:
 
 - [SpiderOak ONE](https://spideroak.com/opendownload)
+
+## Manual configuration
+
+- Sign in to Chrome
+- Sign in to Firefox Sync
 
 ## Sources
 
