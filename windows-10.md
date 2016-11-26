@@ -6,7 +6,6 @@ Go to [Ninite](https://ninite.com), check the following applications, then run t
 
 - Chrome
 - Firefox
-- Skype
 - 7-Zip
 - VLC
 - Python
@@ -61,3 +60,5 @@ To list all locally-installed packages: `choco list --local-only`
 If you accidentally install crapware on your computer, use Revo to completely uninstall them from your computer.
 
 In case you don't have the Product Key for Windows 10, you can get it by running ProduKey. You can install this program via `choco install produkey`.
+
+Windows 10 has the built-in feature to mount ISO files. To create ISO files, consider using Mac OS X's DiskUtility app.
