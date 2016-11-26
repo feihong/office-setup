@@ -45,16 +45,19 @@ Download and install:
 - Sign in to Chrome
 - Sign in to Firefox Sync
 
-Some programs, e.g. VLC and SpiderOak ONE, will have icons or text that are too small because they are not DPI aware. You'll have to [make some changes](dpi-aware.md) to inform the operating system that they are not DPI-aware. 
+Some programs, e.g. VLC and SpiderOak ONE, will have icons or text that are too small because they are not DPI-aware. You'll have to [make some changes](dpi-aware.md) to inform the operating system that they are not DPI-aware. 
 
 ## Sources
 
 - [Installing Chocolatey](https://chocolatey.org/install)
 - [Reload the path in PowerShell](http://stackoverflow.com/questions/17794507/reload-the-path-in-powershell)
 - [QHD 13" screen - Too small buttons](https://forum.videolan.org/viewtopic.php?t=121272)
+- [How to Create ISO Files From Discs on Windows, Mac, and Linux](http://www.howtogeek.com/228886/how-to-create-iso-files-from-discs-on-windows-mac-and-linux/)
 
 ## Notes
 
 To list all locally-installed packages: `choco list --local-only`
 
 If you accidentally install crapware on your computer, use Revo to completely uninstall them from your computer.
+
+In case you don't have the Product Key for Windows 10, you can get it by running ProduKey. You can install this program via `choco install produkey`.
