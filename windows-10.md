@@ -47,6 +47,8 @@ Download and install:
 
 Some programs, e.g. VLC and SpiderOak ONE, will have icons or text that are too small because they are not DPI-aware. You'll have to [make some changes](dpi-aware.md) to inform the operating system that they are not DPI-aware. 
 
+To enable Chinese support, open the Language control panel and click `Add a language`. Switch between input methods using Windows+Space.
+
 ## Sources
 
 - [Installing Chocolatey](https://chocolatey.org/install)
