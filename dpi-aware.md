@@ -64,3 +64,7 @@ content:
 
 </assembly>
 ```
+
+## Source
+
+[QHD 13" screen - Too small buttons](https://forum.videolan.org/viewtopic.php?t=121272)
