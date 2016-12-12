@@ -39,6 +39,11 @@ Download and install:
 
 - [SpiderOak ONE](https://spideroak.com/opendownload)
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/otherversions/) - Make sure to avoid the Reader DC option, which bundles crapware
+- [Picasa](http://filehippo.com/download_picasa/) - Note that Picasa has been discontinued by Google and has some problems under Windows 10 (see Notes)
+
+Install from ISO:
+
+- Microsoft Office
 
 ## Manual configuration
 
@@ -48,6 +53,8 @@ Download and install:
 Some programs, e.g. VLC and SpiderOak ONE, will have icons or text that are too small because they are not DPI-aware. You'll have to [make some changes](dpi-aware.md) to inform the operating system that they are not DPI-aware. 
 
 To enable Chinese support, open the Language control panel and click `Add a language`. Switch between input methods using Windows+Space.
+
+Add sites in FileZilla.
 
 ## Sources
 
@@ -65,3 +72,5 @@ If you accidentally install crapware on your computer, use Revo to completely un
 In case you don't have the Product Key for Windows 10, you can get it by running ProduKey. You can install this program via `choco install produkey`.
 
 Windows 10 has the built-in feature to mount ISO files. To create ISO files, consider using Mac OS X's DiskUtility app.
+
+Under Windows 8.1 and 10, you cannot paste large-resolution images inside Picasa. The workaround is to paste a large image (such as a screenshot) into another program (such as Paint), and then open the image inside Picasa.
