@@ -66,7 +66,7 @@ Add sites in FileZilla.
 
 To list all locally-installed packages: `choco list --local-only`
 
-If you accidentally install crapware on your computer, use Revo to completely uninstall them from your computer.
+If you accidentally install crapware on your computer (i.e. if you accidentally install Adobe Acrobat Reader DC), use Revo to completely uninstall them from your computer.
 
 In case you don't have the Product Key for Windows 10, you can get it by running ProduKey. You can install this program via `choco install produkey`.
 
