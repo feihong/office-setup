@@ -60,7 +60,6 @@ Add sites in FileZilla.
 
 - [Installing Chocolatey](https://chocolatey.org/install)
 - [Reload the path in PowerShell](http://stackoverflow.com/questions/17794507/reload-the-path-in-powershell)
-- [QHD 13" screen - Too small buttons](https://forum.videolan.org/viewtopic.php?t=121272)
 - [How to Create ISO Files From Discs on Windows, Mac, and Linux](http://www.howtogeek.com/228886/how-to-create-iso-files-from-discs-on-windows-mac-and-linux/)
 
 ## Notes
