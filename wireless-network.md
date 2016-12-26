@@ -16,3 +16,7 @@ Source: [Bridge Mode Guide | SBG6580](https://routerguide.net/motorola-surfboard
 1. Change the IP address. Enter a custom value for Network > LAN > IP address (make sure it isn't `192.168.100.1`, which is used by the modem when it's in bridge mode).
 1. Change the password used to connect to the router. Enter a value for Wireless 5GHz > Wireless Security > WPA/WPA2 - Personal(Recommended) > PSK Password.
 1. Change admin password. Fill out the form at System Tools > Password.
+1. Reboot the router by clicking Systems Tools > Reboot > Reboot.
+1. Log into the router again.
+1. Click on Quick Setup > Next. 
+1. Go through each step of the installation wizard. You may need to reboot your modem as part of the process.
