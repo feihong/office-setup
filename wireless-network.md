@@ -1,9 +1,18 @@
 # Setting up the wireless network
 
-## Switch ARRIS SBG6580 to bridge mode
+## Switch ARRIS SBG6580 cable modem to bridge mode
 
 1. Factory reset the modem by pressing into the little hole in the back.
 1. Connect to modem using an ethernet cable and turn off the wireless radio. Select Wireless > 802.11 Radio > Wireless Radio Enable > Disabled.
-
+1. Switch to bridge mode. Select Basic > Setup > Gateway Mode > Bridged.
+1. Reboot the modem.
+1. Make sure you can still log into the model at `192.168.100.1`. 
 
 Source: [Bridge Mode Guide | SBG6580](https://routerguide.net/motorola-surfboard-sbg6580-bridge-mode-guide/)
+
+## Setup TP-Link Archer C7 wireless router
+
+1. Connect an ethernet cable from the router to port 1 of the modem.
+1. Change the IP address. Enter a custom value for Network > LAN > IP address (make sure it isn't `192.168.100.1`, which is used by the modem when it's in bridge mode).
+1. Change the password used to connect to the router. Enter a value for Wireless 5GHz > Wireless Security > WPA/WPA2 - Personal(Recommended) > PSK Password.
+1. Change admin password. Fill out the form at System Tools > Password.
