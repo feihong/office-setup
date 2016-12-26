@@ -20,3 +20,9 @@ Source: [Bridge Mode Guide | SBG6580](https://routerguide.net/motorola-surfboard
 1. Log into the router again.
 1. Click on Quick Setup > Next. 
 1. Go through each step of the installation wizard. You may need to reboot your modem as part of the process.
+
+## Notes
+
+You do not need to plug an ethernet cable into your modem to access its admin interface. Simply open a browser and visit `192.168.100.1`.
+
+I've noticed a tendency for the 5GHz network to inexplicably revert to a default name (e.g. TP-LINK_XXXX). This will cause all clients to be disconnected from the network. To restore the network, you have to restart the router (Systems Tools > Reboot > Reboot).
