@@ -9,7 +9,7 @@
    ```
    hdiutil convert /path/to/source.dmg -format UDTO -o /path/to/destination
    ```
-1. The output file will have an extension of .cdr, but just change the extension to .iso and it should work just fine.
+1. The output file will have an extension of .cdr, but just change the extension to .iso and it should work just fine. You can even mount the .iso file on Windows 10.
 
 ## Source
 
