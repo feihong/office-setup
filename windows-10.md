@@ -56,12 +56,6 @@ To enable Chinese support, open the Language control panel and click `Add a lang
 
 Add sites in FileZilla.
 
-## Sources
-
-- [Installing Chocolatey](https://chocolatey.org/install)
-- [Reload the path in PowerShell](http://stackoverflow.com/questions/17794507/reload-the-path-in-powershell)
-- [How to Create ISO Files From Discs on Windows, Mac, and Linux](http://www.howtogeek.com/228886/how-to-create-iso-files-from-discs-on-windows-mac-and-linux/)
-
 ## Notes
 
 To list all locally-installed packages: `choco list --local-only`
@@ -70,6 +64,12 @@ If you accidentally install crapware on your computer (i.e. if you accidentally 
 
 In case you don't have the Product Key for Windows 10, you can get it by running ProduKey. You can install this program via `choco install produkey`.
 
-Windows 10 has the built-in feature to mount ISO files. To create ISO files, consider using Mac OS X's DiskUtility app.
+Windows 10 has the built-in feature to mount ISO files. To create ISO files, consider [using Mac OS X's DiskUtility app](http://www.howtogeek.com/228886/how-to-create-iso-files-from-discs-on-windows-mac-and-linux/).
 
 Under Windows 8.1 and 10, you cannot paste large-resolution images inside Picasa. The workaround is to paste a large image (such as a screenshot) into another program (such as Paint), and then open the image inside Picasa.
+
+## Sources
+
+- [Installing Chocolatey](https://chocolatey.org/install)
+- [Reload the path in PowerShell](http://stackoverflow.com/questions/17794507/reload-the-path-in-powershell)
+- [How to Create ISO Files From Discs on Windows, Mac, and Linux](http://www.howtogeek.com/228886/how-to-create-iso-files-from-discs-on-windows-mac-and-linux/)
