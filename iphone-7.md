@@ -7,9 +7,7 @@ Install the following apps from the App Store:
 - WeChat
 - Facebook
 - Facebook Messenger
-- Skype
-- Google Translate
-- Pleco
+- Skype for iPhone
 - Google Photos
 
 ## Place in bottom dock
