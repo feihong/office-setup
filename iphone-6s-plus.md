@@ -1,4 +1,4 @@
-# IPhone 6s Plus Setup
+# IPhone 7 Setup
 
 ## App Store
 
@@ -10,7 +10,7 @@ Install the following apps from the App Store:
 - Skype
 - Google Translate
 - Pleco
-- 微云
+- Google Photos
 
 ## Migrate WeChat chag logs
 
