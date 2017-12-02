@@ -37,7 +37,7 @@ Install the following apps from the App Store:
 ## Migrate WeChat chag logs
 
 - Ensure that both devices are on the same Wi-Fi network for the fastest performance (if possible, move both phones close to your wireless router).
-- If either phone has the Auto-Lock setting, temporarily change it to Never.
+- Temporarily set Settings > Display & Brightness > Auto-Lock setting to Never.
 - In the old phone, navigate to Me > Settings > General > Chat Log Migration.
 - Follow the on-screen instructions to initiate the transfer.
 
