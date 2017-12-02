@@ -12,6 +12,30 @@ Install the following apps from the App Store:
 - Pleco
 - Google Photos
 
+## Place in bottom dock
+
+- Mail
+- Safari
+- Phone
+- WeChat
+
+## Place in main screen
+
+- Camera
+- Photos
+- Weather
+- Messages
+- Settings
+- Messenger
+- YouTube
+- Google Photos
+- Facebook
+
+## Widgets
+
+- Weather
+- Mail
+
 ## Migrate WeChat chag logs
 
 - Ensure that both devices are on the same Wi-Fi network for the fastest performance (if possible, move both phones close to your wireless router).
