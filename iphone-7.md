@@ -41,6 +41,11 @@ Install the following apps from the App Store:
 - On old phone, navigate to Me > Settings > General > Chat Log Migration.
 - On new phone, log in using password and go to Discover > Scan QR Code.
 
+## Settings
+
+- Turn on Do Not Disturb > Scheduled, use 10 pm to 7 am
+- Display & Brightness > Zoom > Zoomed
+
 ## Sources
 
 - [Out Now: WeChat 6.2 for iOS and Android](http://blog.wechat.com/2015/05/27/out-now-wechat-6-2-for-ios-and-android-featuring-moments-translation/)
