@@ -43,8 +43,12 @@ Install the following apps from the App Store:
 
 ## Settings
 
-- Turn on Do Not Disturb > Scheduled, use 10 pm to 7 am
+- Do Not Disturb
+  - Scheduled from 10 pm to 7 am
+  - While driving
+  - Auto reply while driving to All Contacts
 - Display & Brightness > Zoom > Zoomed
+- Add Simplified Chinese to Languages
 
 ## Sources
 
